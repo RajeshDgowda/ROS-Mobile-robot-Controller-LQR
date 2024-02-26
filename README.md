@@ -12,7 +12,7 @@ git clone -b foxy https://github.com/husarion/rosbot_description.git
 * Get the LQR
 ```sh
 cd ~/robot_ws/src
-git clone https://github.com/siksal/control.git
+git clone https://github.com/RajeshDgowda/ROS-Mobile-robot-Controller-LQR.git
 ```
 
 * Build the packages
