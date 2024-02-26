@@ -31,7 +31,3 @@ ros2 launch rosbot_description rosbot_sim.launch.py
 ## Run LQR in another terminal/tab (remember to source the new terminal/tab)
 ros2 run control lqr
 ```
-# ROS-Mobilr-Robot-Controller-LQR
-# ROS-Mobile-robot-Controller-LQR
-# ROS-Mobile-robot-Controller-LQR
-# ROS-Mobile-robot-Controller-LQR
